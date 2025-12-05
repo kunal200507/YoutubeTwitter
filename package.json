@@ -1,0 +1,20 @@
+{
+  "name": "youtubetwitter",
+  "version": "1.0.0",
+  "description": "this is a project of youtube and twitter combined",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "youtube",
+    "twitter",
+    "backend"
+  ],
+  "author": "Kundan Sahil",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.0.0"
+  }
+}
